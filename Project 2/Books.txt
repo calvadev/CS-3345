@@ -1,0 +1,6 @@
+978-0262033848 Introduction_to_Algorithms Cormen
+978-0980232776 Introduction_to_Linear_Algebra_Fifth_Edition Gilbert_Strang
+978-0812548051 Wizards_Frist_Rule Goodkind
+978-0812548099 Sword_Of_Truth Goodkind
+978-0812551471 Blood_Of_The_Winds Goodkind
+978-0812551488 Temple_Of_The_Winds Goodkind
